@@ -1,0 +1,14 @@
+aniso8601==4.0.1
+attrs==17.4.0
+click==6.7
+Flask==0.12.2
+gunicorn==19.9.0
+itsdangerous==0.24
+Jinja2==2.10
+jsonschema==2.6.0
+MarkupSafe==1.0
+pluggy==0.6.0
+py==1.5.3
+pytz==2018.5
+six==1.11.0
+Werkzeug==0.14.1
